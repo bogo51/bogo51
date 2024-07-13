@@ -18,7 +18,7 @@
 
 
 ### 🔝 افضل مطورين يمكنك متابعتهم
-![](https://github-contributor-stats.vercel.app/api?username=bogo51&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=botmego11&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 ## 💰 يمكنك مساعدتي عن طريق التبرع
@@ -28,7 +28,7 @@
 </a>  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+PROYECTO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Botmego11/MegoBot-MG">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botmego11&repo=Botmego11&theme=jolly)</a>
+<a href="https://github.com/Botmego11/MegoBot-MG">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botmego11&repo=MegoBot-MG&theme=jolly)</a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+PROYECTOS+DE+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
